@@ -1,0 +1,40 @@
+.table_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.table {
+    border: 2px solid #c65252;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.table_header {
+    border-bottom: 1px solid #c65252;
+    color: white;
+    font-size: 18px;
+}
+
+.table_data {
+    text-align: center;
+    width: 50%;
+    color: white;
+    border-bottom: 1px solid #c65252;
+}
+
+.bottom_container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 8px;
+}
+
+.button {
+    border-radius: 4px;
+    background-color: #c65252;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}

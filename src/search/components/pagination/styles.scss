@@ -1,0 +1,27 @@
+.pagination_item {
+    border: 1px solid #c65252;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+}
+
+.pagination_container {
+    display: flex;
+    flex-direction: row
+}
+
+.is_selected {
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    background: #c65252;
+}
