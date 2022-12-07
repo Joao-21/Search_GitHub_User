@@ -1,7 +1,7 @@
 import UseData from "../useData";
 import "./styles.scss";
 import { useEffect } from "react";
-import { LoadingTypes } from "../../../types";
+import { LoadingTypes } from "../../../../types";
 import { useNavigate } from "react-router-dom";
 import { Loading } from "../../components/loading";
 

@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router";
-import { RepositoryData } from "../../../types";
+import { RepositoryData } from "../../../../types";
 import { Pagination } from "../pagination";
 import "./styles.scss";
 

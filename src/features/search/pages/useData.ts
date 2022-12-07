@@ -1,10 +1,10 @@
 import { useDispatch, useSelector } from "react-redux";
-import { RootState } from "../../redux-store/store";
+import { RootState } from "../../../redux-store/store";
 import {
   LoadingTypes,
   RepositoryData,
   UserInformationsData,
-} from "../../types";
+} from "../../../types";
 import {
   resetSlice,
   setUserName,

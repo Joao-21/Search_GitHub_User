@@ -5,7 +5,7 @@ import {
   LoadingTypes,
   RepositoryData,
   UserInformationsData,
-} from "../../../types";
+} from "../../../../types";
 
 export interface UserState {
   userName: string;

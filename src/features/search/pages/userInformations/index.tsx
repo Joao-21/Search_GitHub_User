@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router";
-import { LoadingTypes } from "../../../types";
+import { LoadingTypes } from "../../../../types";
 import { Loading } from "../../components/loading";
 import { RepositoriesTable } from "../../components/repositoriesTable";
 import UseData from "../useData";
