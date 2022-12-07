@@ -11,11 +11,12 @@
     flex-direction: row;
     justify-content: center;
     margin-bottom: 12px;
+    gap: 32px
 }
 
 .image {
     width: 120px;
-    height: 120px
+    height: 120px;
 }
 
 .user_information {
